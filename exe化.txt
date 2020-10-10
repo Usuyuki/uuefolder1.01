@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=icon2.ico uuefolder1.01.py
